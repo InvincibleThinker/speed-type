@@ -2,4 +2,4 @@
 
 ![](./public/speed-type.png)
 
-**_ screenshot of speed type _**
+** screenshot of speed type **
